@@ -1,1 +1,1 @@
-//Hello
+var x = 0;
